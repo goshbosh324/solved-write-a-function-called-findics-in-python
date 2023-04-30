@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-write-a-function-called-findics-in-python
+<br>
+Write a function called “findics” which takes a string as an argument and returns True if that string contains “ics” where “ics” must be preceded by a single digit, 0 through 9. For example, your function should return True for the string “ffff2icsand” but it should return False for the string “fffficsand”
